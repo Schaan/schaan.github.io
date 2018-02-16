@@ -39,6 +39,9 @@ timezone: Europe/Berlin
 
 # Default front matter
 defaults:
+  -
+    customjs:
+      - http://cdn.mathjax.org/mathjax/latest/MathJax.js
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
