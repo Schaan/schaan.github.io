@@ -26,11 +26,11 @@ github_username:  Schaan
 
 # a set of footer attributes
 footer-links:
-  linkedin:
+  linkedin: 
 
 # Build settings
 markdown: kramdown
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
 
