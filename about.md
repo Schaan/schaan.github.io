@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+lang: en
 ---
 
 A hacker. A music lover. A world citizen. A life-long loading Mahayana.

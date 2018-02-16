@@ -25,6 +25,17 @@
             <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
             {% endif %}
           {% endfor %}
+
+        <!-- triggers for multi-lingual support -->
+          {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+          {% for page in pages %}
+            <a href="{{ page.url }}" class="{{ page.lang }} page-link">{{ page.lang }}</a>
+          {% endfor %}
+
+          {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+          {% for post in posts %}
+            <a href="{{ post.url }}" class="{{ post.lang }} page-link">{{ post.lang }}</a>
+          {% endfor %}
         </div>
       </nav>
     {% endif %}

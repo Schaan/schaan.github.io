@@ -26,7 +26,7 @@ github_username:  Schaan
 
 # a set of footer attributes
 footer-links:
-  linkedin: 
+  linkedin:
 
 # Build settings
 markdown: kramdown
@@ -43,6 +43,11 @@ defaults:
     customjs:
       - http://cdn.mathjax.org/mathjax/latest/MathJax.js
 
+# Multi-lingual support
+t:
+  en:
+  zh:
+    
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

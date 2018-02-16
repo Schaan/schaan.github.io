@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
+lang: en
 date:   2018-02-14 23:21:12 +0100
 categories: jekyll update
 ---

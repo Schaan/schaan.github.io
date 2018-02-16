@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "测试"
-lang: zh
+title:  "Test!"
+lang: en
 ref: testlang
 categories: test
 ---
