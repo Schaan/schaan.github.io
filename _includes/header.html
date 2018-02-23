@@ -26,17 +26,28 @@
             {% endif %}
           {% endfor %}
 
-        <!-- triggers for multi-lingual support -->
+          {% assign current_lang = page.lang %}
           {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
           {% for page in pages %}
-            <a href="{{ page.url }}" class="{{ page.lang }} page-link">{{ page.lang }}</a>
+            {% if page.lang != current_lang %}
+              <a href="{{ page.url }}" class="page-link" style="font-variant:small-caps">{{ page.lang }}</a>
+            {% else %}
+              <a href="{{ page.url }}" class="sltd page-link" style="font-variant:small-caps">{{ page.lang }}</a>
+            {% endif %}
           {% endfor %}
 
           {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
           {% for post in posts %}
-            <a href="{{ post.url }}" class="{{ post.lang }} page-link">{{ post.lang }}</a>
+            {% if post.lang != current_lang %}
+              <a href="{{ post.url }}" class="page-link" style="font-variant:small-caps">{{ post.lang }}</a>
+            {% else %}
+              <a href="{{ post.url }}" class="sltd page-link" style="font-variant:small-caps">{{ post.lang }}</a>
+            {% endif %}
           {% endfor %}
+
+          <!-- <label for="lin-menu" class="lin-selector">中</label> -->
         </div>
+
       </nav>
     {% endif %}
   </div>
