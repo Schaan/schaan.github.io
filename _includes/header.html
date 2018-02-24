@@ -19,6 +19,7 @@
         </label>
 
         <div class="trigger">
+          <!-- add static page link to the header -->
           {% for path in page_paths %}
             {% assign my_page = site.pages | where: "path", path | first %}
             {% if my_page.title %}
@@ -26,28 +27,20 @@
             {% endif %}
           {% endfor %}
 
+          <!-- add multi-lingual switches to the header -->
           {% assign current_lang = page.lang %}
-          {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+          {% assign pages=site.pages | concat:site.posts | where:"ref", page.ref | sort: 'lang' %}
           {% for page in pages %}
             {% if page.lang != current_lang %}
-              <a href="{{ page.url }}" class="page-link" style="font-variant:small-caps">{{ page.lang }}</a>
-            {% else %}
-              <a href="{{ page.url }}" class="sltd page-link" style="font-variant:small-caps">{{ page.lang }}</a>
+              {% capture cus_class %}page-link{%endcapture%}
+            {%else%}
+              {% capture cus_class %}page-link sltd{%endcapture%}
             {% endif %}
-          {% endfor %}
-
-          {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
-          {% for post in posts %}
-            {% if post.lang != current_lang %}
-              <a href="{{ post.url }}" class="page-link" style="font-variant:small-caps">{{ post.lang }}</a>
-            {% else %}
-              <a href="{{ post.url }}" class="sltd page-link" style="font-variant:small-caps">{{ post.lang }}</a>
-            {% endif %}
+            <a href="{{ page.url }}" class="{{ cus_class }}" style="font-variant:small-caps">{{ page.lang }}</a>
           {% endfor %}
 
           <!-- <label for="lin-menu" class="lin-selector">中</label> -->
         </div>
-
       </nav>
     {% endif %}
   </div>
