@@ -23,6 +23,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://schaan.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: apiSchaan
 github_username:  Schaan
+google_analytics: UA-114789258-1
 
 # a set of footer attributes
 footer-links:
