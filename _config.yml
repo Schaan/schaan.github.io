@@ -25,6 +25,8 @@ twitter_username: apiSchaan
 github_username:  Schaan
 google_analytics: UA-114789258-1
 
+show_excerpts: true
+
 # a set of footer attributes
 footer-links:
   linkedin:
