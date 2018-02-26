@@ -8,13 +8,13 @@ excerpt: Sound is that you can use to feel the time.
 
 (Actually, the title could be "Hello, Jekyll" (～￣▽￣)～)
 
-I've written several blogs on Renren, BlogBus, Wordpress, etc.. till I finally decided to wheel myself into the road of application development, entirely. I resigned the work in the planning office, registered myself into the first semester of Bachelor (like 12 years ago!!) of electronics and several online-courses and competitions, have struggled in a bunch of exams as "Grundlagen-und-Orientierungs-Prüfungen", and been waiting for the last major surgery on my "lame" leg. And in prevention of getting bored (once more!!) in the German village, this idea has come finally into my mind: OK, it's time to say:
+I've written several blogs on Renren, BlogBus, Wordpress, etc.. till I finally decided to wheel myself into the road of application development, entirely. I resigned the work in the planning office, registered into the first semester of Bachelor (like 12 years ago!!) of electronics and several online-courses and competitions, have struggled in a bunch of exams as "Grundlagen-und-Orientierungs-Prüfungen", and been waiting for the last major surgery on my "lame" leg. And in prevention of getting bored (once more!!) in the German village, this idea has come finally into my mind: OK, it's time to say:
 
 > Hello Sound
 
-to everyone o(*￣▽￣*)ブ!! Shout it out loudly as somebody like you can really hear that, maybe begin to listen to it from now on.
+to everyone o(*￣▽￣*)ブ!! Shout it out loud so that somebody like you can really hear that, maybe begin to listen to it from now on.
 
-The main idea is to construct a home for my wandering thoughts all related to the aural world — a piece of world that is so significant to me in the past 10-15 years. The motivation comes recently from this TED-video. Here the speaker insists that **"we are losing our listening"** and sends us the appeal to give more concerning to this topic and contribute a little to help establish an educational system for listening:
+The main idea is to construct a home for my wandering thoughts all related to the aural world — a piece of world that is so significant to me in the past 10-15 years. The motivation came recently from this TED-video. Here the speaker insists that **"we are losing our listening"** and sends us the appeal to give more concerning to this topic and contribute a little to help establish an educational system for listening:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cSohjlYQI2A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
