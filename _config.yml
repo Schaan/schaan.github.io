@@ -19,6 +19,7 @@ avatar:
 description: >- # this means to ignore newlines until "baseurl:"
   All efforts for harvesting beautiful sounds:
   for the hearts and brains of acoustics, audio and music
+author: Schaan
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://schaan.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: apiSchaan

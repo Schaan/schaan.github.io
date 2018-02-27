@@ -3,6 +3,7 @@ layout: post
 title: "Hello, Sound!"
 date: "2018-02-26 17:03:36 +0100"
 lang: en
+ref: intro
 excerpt: Sound is that you can use to feel the time.
 ---
 
