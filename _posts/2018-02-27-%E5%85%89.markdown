@@ -4,6 +4,8 @@ title: "光"
 date: "2018-02-27 16:40:40 +0100"
 lang: zh
 ref: intro
+categories: essays
+tags: hikari radiance Naomi_Kawase 光 河濑直美
 excerpt: 重三の見つめる先、そこに、光。
 ---
 > 重三の見つめる先、

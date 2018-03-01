@@ -19,6 +19,12 @@ layout: default
     {{ content }}
   </div>
 
+  <div class="post-content">
+    <p>
+      <small><em>Keywords: {{ page.tags | join: ", "}}</em></small>
+    </p>
+  </div>
+
   {% if site.disqus.shortname %}
     {% include disqus_comments.html %}
   {% endif %}

@@ -19,6 +19,9 @@
         </label>
 
         <div class="trigger">
+          {% for category in site.categories %}
+            <a class="page-link" href="/category/{{ category[0] }}">{{ category[0] | capitalize | escape }}</a>
+          {% endfor %}
           <!-- add static page link to the header -->
           {% for path in page_paths %}
             {% assign my_page = site.pages | where: "path", path | first %}
