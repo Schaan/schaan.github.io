@@ -60,7 +60,7 @@ Heidevolk：双主唱的硬汉乐队。
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/145641552@N05/38772793310/in/dateposted-public/" title="Korpiklaani 2018 München: Heidevolk"><img src="https://farm5.staticflickr.com/4626/38772793310_2f0a3351d5_z.jpg" width="640" height="480" alt="Korpiklaani 2018 München: Heidevolk"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-这支德国队给了我特别大的惊喜，尤其是中间无伴奏合唱的一首歌，标准的劳动号子式阿卡贝拉。
+这支德国队 _（更正：Heidevolk是一支荷兰队哈！他们现场说德语真是迷惑了我ㄟ( ▔, ▔ )ㄏ）_ 给了我特别大的惊喜，尤其是中间无伴奏合唱的一首歌，标准的劳动号子式阿卡贝拉。
 男低音作为主唱让人意外感到合适。对位和声的人声主旋律在金属音乐中具有很大的可行性，在超亮高音/重型女高音/各种嘶吼唱腔之外，为能够不被满满的配器淹没，提供了另一种很好的选择。
 
 大部分Heidevolk的歌与其说是民谣金属，倒不如说是战争金属。尽管前一个德国队Black Messiah也是这样的路子，但Heidevolk在音乐上则整齐得多，充满了stereotype里的德味。让我耳朵一亮的是最后这首Vulgaris Magistralis，aho aho的号子真是十分洗脑。在本来就不算是高音的主旋律下再垫一层低八度的男低音，构成了这支乐队的灵魂——一种向下积蓄、向内积蓄的力量。Youtube下一个评论写的特别好：“听着这首歌，我的胡子长了20厘米长。”(￣▽￣)"
